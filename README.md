@@ -1,5 +1,4 @@
-# UnderGrad-Final-Project
-Sales Order Data Mart and Business Intelligence Solution
+# Sales Order Data Mart and Business Intelligence Solution
 
 Build Data Mart for processing Sales Order Information using Informatica PowerCenter 9.0.1
 
